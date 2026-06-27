@@ -1,0 +1,5 @@
+model,tn,fp,fn,tp,threshold
+logistic_regression,134742,60787,30551,39577,0.5
+scorecard_woe_logistic,137569,57960,32836,37292,0.5
+decision_tree,128304,67225,33121,37007,0.5
+random_forest,143534,51995,37713,32415,0.5

@@ -1,0 +1,3 @@
+default_flag,loan_count,class_label,class_share_pct
+0,1041952,Non-default,78.60614770639779
+1,283583,Default,21.393852293602205

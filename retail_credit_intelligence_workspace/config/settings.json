@@ -1,0 +1,29 @@
+{
+  "app_name": "Retail Credit Intelligence System",
+  "app_version": "1.0.0",
+  "data_path": "data/scored_portfolio.csv",
+  "reports_dir": "reports",
+  "plots_dir": "plots",
+  "models_dir": "models",
+  "currency_symbol": "$",
+  "cost_of_funds": 0.08,
+  "operating_cost_rate": 0.01,
+  "risk_bands": {
+    "Low Risk": {"min": 0.0, "max": 0.05},
+    "Moderate Risk": {"min": 0.05, "max": 0.12},
+    "High Risk": {"min": 0.12, "max": 0.20},
+    "Very High Risk": {"min": 0.20, "max": 1.0}
+  },
+  "decision_policy": {
+    "approve_pd_max": 0.08,
+    "conditional_pd_max": 0.15,
+    "manual_review_pd_max": 0.25,
+    "minimum_expected_return": 0.0
+  },
+  "portfolio_health_weights": {
+    "pd": 0.35,
+    "expected_return": 0.25,
+    "concentration": 0.20,
+    "approval_quality": 0.20
+  }
+}

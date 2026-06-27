@@ -1,0 +1,382 @@
+model,feature,importance,absolute_importance
+decision_tree,cat__term_ 36 months,0.5995961053385406,0.5995961053385406
+decision_tree,num__acc_open_past_24mths,0.10739339922700537,0.10739339922700537
+decision_tree,num__bc_open_to_buy,0.0725209358904756,0.0725209358904756
+decision_tree,num__log_annual_inc,0.057053442450445725,0.057053442450445725
+decision_tree,num__tot_hi_cred_lim,0.04745388925189814,0.04745388925189814
+decision_tree,num__avg_cur_bal,0.03877665095169909,0.03877665095169909
+decision_tree,num__dti,0.03795829859847082,0.03795829859847082
+decision_tree,num__inq_last_6mths,0.018422647406447574,0.018422647406447574
+decision_tree,num__revol_util,0.008663058785474586,0.008663058785474586
+decision_tree,num__total_bc_limit,0.006293653652341077,0.006293653652341077
+decision_tree,num__loan_to_income,0.005867918447201418,0.005867918447201418
+decision_tree,num__loan_amnt,0.0,0.0
+decision_tree,num__annual_inc,0.0,0.0
+decision_tree,num__delinq_2yrs,0.0,0.0
+decision_tree,num__mths_since_last_delinq,0.0,0.0
+decision_tree,num__mths_since_last_record,0.0,0.0
+decision_tree,num__open_acc,0.0,0.0
+decision_tree,num__pub_rec,0.0,0.0
+decision_tree,num__revol_bal,0.0,0.0
+decision_tree,num__total_acc,0.0,0.0
+decision_tree,num__collections_12_mths_ex_med,0.0,0.0
+decision_tree,num__mths_since_last_major_derog,0.0,0.0
+decision_tree,num__acc_now_delinq,0.0,0.0
+decision_tree,num__tot_coll_amt,0.0,0.0
+decision_tree,num__tot_cur_bal,0.0,0.0
+decision_tree,num__total_rev_hi_lim,0.0,0.0
+decision_tree,num__bc_util,0.0,0.0
+decision_tree,num__chargeoff_within_12_mths,0.0,0.0
+decision_tree,num__delinq_amnt,0.0,0.0
+decision_tree,num__mo_sin_old_rev_tl_op,0.0,0.0
+decision_tree,num__mo_sin_rcnt_rev_tl_op,0.0,0.0
+decision_tree,num__mort_acc,0.0,0.0
+decision_tree,num__num_accts_ever_120_pd,0.0,0.0
+decision_tree,num__num_tl_90g_dpd_24m,0.0,0.0
+decision_tree,num__pct_tl_nvr_dlq,0.0,0.0
+decision_tree,num__percent_bc_gt_75,0.0,0.0
+decision_tree,num__pub_rec_bankruptcies,0.0,0.0
+decision_tree,num__tax_liens,0.0,0.0
+decision_tree,num__total_bal_ex_mort,0.0,0.0
+decision_tree,num__total_il_high_credit_limit,0.0,0.0
+decision_tree,num__term_months,0.0,0.0
+decision_tree,num__emp_length_years,0.0,0.0
+decision_tree,num__credit_history_months,0.0,0.0
+decision_tree,cat__term_ 60 months,0.0,0.0
+decision_tree,cat__purpose_car,0.0,0.0
+decision_tree,cat__purpose_credit_card,0.0,0.0
+decision_tree,cat__purpose_debt_consolidation,0.0,0.0
+decision_tree,cat__purpose_home_improvement,0.0,0.0
+decision_tree,cat__purpose_major_purchase,0.0,0.0
+decision_tree,cat__purpose_other,0.0,0.0
+decision_tree,cat__purpose_small_business,0.0,0.0
+decision_tree,cat__purpose_infrequent_sklearn,0.0,0.0
+decision_tree,cat__emp_length_1 year,0.0,0.0
+decision_tree,cat__emp_length_10+ years,0.0,0.0
+decision_tree,cat__emp_length_2 years,0.0,0.0
+decision_tree,cat__emp_length_3 years,0.0,0.0
+decision_tree,cat__emp_length_4 years,0.0,0.0
+decision_tree,cat__emp_length_5 years,0.0,0.0
+decision_tree,cat__emp_length_6 years,0.0,0.0
+decision_tree,cat__emp_length_7 years,0.0,0.0
+decision_tree,cat__emp_length_8 years,0.0,0.0
+decision_tree,cat__emp_length_9 years,0.0,0.0
+decision_tree,cat__emp_length_< 1 year,0.0,0.0
+decision_tree,cat__home_ownership_MORTGAGE,0.0,0.0
+decision_tree,cat__home_ownership_OWN,0.0,0.0
+decision_tree,cat__home_ownership_RENT,0.0,0.0
+decision_tree,cat__home_ownership_infrequent_sklearn,0.0,0.0
+decision_tree,cat__verification_status_Not Verified,0.0,0.0
+decision_tree,cat__verification_status_Source Verified,0.0,0.0
+decision_tree,cat__verification_status_Verified,0.0,0.0
+decision_tree,cat__addr_state_AL,0.0,0.0
+decision_tree,cat__addr_state_AZ,0.0,0.0
+decision_tree,cat__addr_state_CA,0.0,0.0
+decision_tree,cat__addr_state_CO,0.0,0.0
+decision_tree,cat__addr_state_CT,0.0,0.0
+decision_tree,cat__addr_state_FL,0.0,0.0
+decision_tree,cat__addr_state_GA,0.0,0.0
+decision_tree,cat__addr_state_IL,0.0,0.0
+decision_tree,cat__addr_state_IN,0.0,0.0
+decision_tree,cat__addr_state_LA,0.0,0.0
+decision_tree,cat__addr_state_MA,0.0,0.0
+decision_tree,cat__addr_state_MD,0.0,0.0
+decision_tree,cat__addr_state_MI,0.0,0.0
+decision_tree,cat__addr_state_MN,0.0,0.0
+decision_tree,cat__addr_state_MO,0.0,0.0
+decision_tree,cat__addr_state_NC,0.0,0.0
+decision_tree,cat__addr_state_NJ,0.0,0.0
+decision_tree,cat__addr_state_NV,0.0,0.0
+decision_tree,cat__addr_state_NY,0.0,0.0
+decision_tree,cat__addr_state_OH,0.0,0.0
+decision_tree,cat__addr_state_OR,0.0,0.0
+decision_tree,cat__addr_state_PA,0.0,0.0
+decision_tree,cat__addr_state_SC,0.0,0.0
+decision_tree,cat__addr_state_TN,0.0,0.0
+decision_tree,cat__addr_state_TX,0.0,0.0
+decision_tree,cat__addr_state_VA,0.0,0.0
+decision_tree,cat__addr_state_WA,0.0,0.0
+decision_tree,cat__addr_state_WI,0.0,0.0
+decision_tree,cat__addr_state_infrequent_sklearn,0.0,0.0
+decision_tree,cat__earliest_cr_line_infrequent_sklearn,0.0,0.0
+decision_tree,cat__application_type_Individual,0.0,0.0
+decision_tree,cat__application_type_infrequent_sklearn,0.0,0.0
+decision_tree,cat__facility_type_Auto Loan,0.0,0.0
+decision_tree,cat__facility_type_Consumer / Lifestyle Loan,0.0,0.0
+decision_tree,cat__facility_type_Credit Card Refinance,0.0,0.0
+decision_tree,cat__facility_type_Debt Consolidation / Personal Loan,0.0,0.0
+decision_tree,cat__facility_type_Home Improvement Loan,0.0,0.0
+decision_tree,cat__facility_type_Other Personal Loan,0.0,0.0
+decision_tree,cat__facility_type_Small Business Retail Loan,0.0,0.0
+decision_tree,cat__facility_type_infrequent_sklearn,0.0,0.0
+logistic_regression,cat__emp_length_10+ years,0.5030058837523073,0.5030058837523073
+logistic_regression,cat__emp_length_< 1 year,-0.47753400178046806,0.47753400178046806
+logistic_regression,cat__emp_length_9 years,0.4375709697337516,0.4375709697337516
+logistic_regression,cat__emp_length_1 year,-0.4043479889181707,0.4043479889181707
+logistic_regression,num__emp_length_years,-0.366248821155986,0.366248821155986
+logistic_regression,cat__emp_length_8 years,0.345199317452371,0.345199317452371
+logistic_regression,cat__emp_length_2 years,-0.34179878643116735,0.34179878643116735
+logistic_regression,cat__addr_state_OR,-0.32862216643679626,0.32862216643679626
+logistic_regression,num__term_months,0.32043280109020117,0.32043280109020117
+logistic_regression,cat__facility_type_Small Business Retail Loan,0.29391162659518266,0.29391162659518266
+logistic_regression,cat__purpose_small_business,0.293911626595182,0.293911626595182
+logistic_regression,num__acc_open_past_24mths,0.2819324518008056,0.2819324518008056
+logistic_regression,cat__addr_state_SC,-0.2716004278486335,0.2716004278486335
+logistic_regression,cat__addr_state_CO,-0.267367674753762,0.267367674753762
+logistic_regression,cat__emp_length_3 years,-0.23064243489481367,0.23064243489481367
+logistic_regression,cat__addr_state_WA,-0.21691541571874623,0.21691541571874623
+logistic_regression,cat__emp_length_7 years,0.1987220639075132,0.1987220639075132
+logistic_regression,cat__addr_state_LA,0.19359160523898886,0.19359160523898886
+logistic_regression,cat__addr_state_NV,0.19349313428891532,0.19349313428891532
+logistic_regression,num__total_il_high_credit_limit,-0.19240030156541896,0.19240030156541896
+logistic_regression,num__total_bal_ex_mort,0.17474486006789164,0.17474486006789164
+logistic_regression,num__log_annual_inc,-0.17437771628530388,0.17437771628530388
+logistic_regression,num__dti,0.17252362990196546,0.17252362990196546
+logistic_regression,cat__purpose_major_purchase,-0.1693587496486341,0.1693587496486341
+logistic_regression,cat__purpose_other,0.16595302225514472,0.16595302225514472
+logistic_regression,cat__purpose_credit_card,-0.16516818619324522,0.16516818619324522
+logistic_regression,cat__facility_type_Credit Card Refinance,-0.16516818619324522,0.16516818619324522
+logistic_regression,cat__addr_state_AL,0.16160231368928435,0.16160231368928435
+logistic_regression,cat__term_ 36 months,-0.15872382252340175,0.15872382252340175
+logistic_regression,cat__addr_state_NJ,0.15744650509487707,0.15744650509487707
+logistic_regression,num__tot_hi_cred_lim,-0.14879260090420365,0.14879260090420365
+logistic_regression,cat__addr_state_WI,-0.1461584723518873,0.1461584723518873
+logistic_regression,num__inq_last_6mths,0.1421666794894496,0.1421666794894496
+logistic_regression,num__revol_util,0.1421276852280097,0.1421276852280097
+logistic_regression,num__total_acc,-0.1407963102767284,0.1407963102767284
+logistic_regression,cat__home_ownership_MORTGAGE,-0.13852779967563694,0.13852779967563694
+logistic_regression,num__percent_bc_gt_75,0.13514415998228577,0.13514415998228577
+logistic_regression,cat__addr_state_NY,0.13218447357293406,0.13218447357293406
+logistic_regression,cat__term_ 60 months,0.1321712078152626,0.1321712078152626
+logistic_regression,num__mo_sin_old_rev_tl_op,-0.12907850589943945,0.12907850589943945
+logistic_regression,cat__emp_length_4 years,-0.12679051549043338,0.12679051549043338
+logistic_regression,cat__addr_state_MD,0.1226643797020605,0.1226643797020605
+logistic_regression,cat__purpose_car,-0.12199951197762529,0.12199951197762529
+logistic_regression,cat__facility_type_Auto Loan,-0.12199951197762529,0.12199951197762529
+logistic_regression,num__loan_amnt,0.1193381817902741,0.1193381817902741
+logistic_regression,num__tot_cur_bal,0.1189115256997825,0.1189115256997825
+logistic_regression,num__delinq_2yrs,0.10938522303843236,0.10938522303843236
+logistic_regression,cat__facility_type_infrequent_sklearn,0.10185924684525986,0.10185924684525986
+logistic_regression,cat__addr_state_TN,0.10167836330454132,0.10167836330454132
+logistic_regression,num__loan_to_income,0.1010158367387084,0.1010158367387084
+logistic_regression,cat__home_ownership_RENT,0.0995051284426194,0.0995051284426194
+logistic_regression,num__annual_inc,0.09502750171381326,0.09502750171381326
+logistic_regression,num__total_bc_limit,-0.0933488569263867,0.0933488569263867
+logistic_regression,cat__emp_length_6 years,0.09245824687218944,0.09245824687218944
+logistic_regression,cat__facility_type_Other Personal Loan,-0.09095277895110472,0.09095277895110472
+logistic_regression,cat__addr_state_GA,-0.08939648809159031,0.08939648809159031
+logistic_regression,cat__addr_state_MO,0.08839230881929627,0.08839230881929627
+logistic_regression,num__total_rev_hi_lim,-0.08796071486651313,0.08796071486651313
+logistic_regression,cat__addr_state_FL,0.08551149833125796,0.08551149833125796
+logistic_regression,cat__addr_state_IL,-0.08478752944696025,0.08478752944696025
+logistic_regression,num__bc_util,-0.07946934034046926,0.07946934034046926
+logistic_regression,num__credit_history_months,0.07828898370719634,0.07828898370719634
+logistic_regression,cat__purpose_infrequent_sklearn,0.07753828180785256,0.07753828180785256
+logistic_regression,cat__purpose_debt_consolidation,-0.07628672095861926,0.07628672095861926
+logistic_regression,cat__facility_type_Debt Consolidation / Personal Loan,-0.07628672095861926,0.07628672095861926
+logistic_regression,num__avg_cur_bal,-0.06695330658823574,0.06695330658823574
+logistic_regression,cat__facility_type_Consumer / Lifestyle Loan,0.06322608652020288,0.06322608652020288
+logistic_regression,num__open_acc,0.06006455751825755,0.06006455751825755
+logistic_regression,num__pub_rec,0.05789882158686596,0.05789882158686596
+logistic_regression,num__mo_sin_rcnt_rev_tl_op,-0.05773099855534617,0.05773099855534617
+logistic_regression,cat__verification_status_Not Verified,-0.05497536181035516,0.05497536181035516
+logistic_regression,cat__addr_state_VA,0.050591801206397155,0.050591801206397155
+logistic_regression,cat__addr_state_CT,-0.050358058460385574,0.050358058460385574
+logistic_regression,cat__verification_status_Source Verified,0.048929973892903086,0.048929973892903086
+logistic_regression,cat__addr_state_NC,0.041452359689054294,0.041452359689054294
+logistic_regression,num__num_accts_ever_120_pd,0.04003937551683416,0.04003937551683416
+logistic_regression,cat__addr_state_AZ,0.03956240686435464,0.03956240686435464
+logistic_regression,cat__application_type_infrequent_sklearn,-0.03858884302530897,0.03858884302530897
+logistic_regression,cat__addr_state_IN,0.03834006478193883,0.03834006478193883
+logistic_regression,cat__home_ownership_infrequent_sklearn,0.03701066209167295,0.03701066209167295
+logistic_regression,num__num_tl_90g_dpd_24m,-0.034356108065473526,0.034356108065473526
+logistic_regression,num__mort_acc,-0.03404654812170183,0.03404654812170183
+logistic_regression,cat__purpose_home_improvement,-0.031142376588343516,0.031142376588343516
+logistic_regression,cat__facility_type_Home Improvement Loan,-0.031142376588343516,0.031142376588343516
+logistic_regression,num__collections_12_mths_ex_med,0.029480007361796515,0.029480007361796515
+logistic_regression,cat__addr_state_MI,-0.027944852599941613,0.027944852599941613
+logistic_regression,cat__earliest_cr_line_infrequent_sklearn,-0.026552614708428752,0.026552614708428752
+logistic_regression,cat__home_ownership_OWN,-0.02454060556679722,0.02454060556679722
+logistic_regression,cat__addr_state_PA,0.024276787562402005,0.024276787562402005
+logistic_regression,cat__addr_state_infrequent_sklearn,-0.023269798657924407,0.023269798657924407
+logistic_regression,cat__addr_state_MN,0.023251138355036283,0.023251138355036283
+logistic_regression,cat__emp_length_5 years,-0.022395368911446004,0.022395368911446004
+logistic_regression,cat__verification_status_Verified,-0.020507226790651933,0.020507226790651933
+logistic_regression,cat__addr_state_CA,0.02030947354007378,0.02030947354007378
+logistic_regression,num__tax_liens,-0.017285092736490676,0.017285092736490676
+logistic_regression,num__mths_since_last_delinq,-0.01689061743320898,0.01689061743320898
+logistic_regression,num__bc_open_to_buy,-0.015724053524747903,0.015724053524747903
+logistic_regression,cat__addr_state_OH,0.015595326219987434,0.015595326219987434
+logistic_regression,num__acc_now_delinq,0.01459658137893172,0.01459658137893172
+logistic_regression,num__pct_tl_nvr_dlq,-0.014419612847489837,0.014419612847489837
+logistic_regression,cat__application_type_Individual,0.012036228316881623,0.012036228316881623
+logistic_regression,cat__addr_state_MA,-0.008207990611085693,0.008207990611085693
+logistic_regression,num__pub_rec_bankruptcies,0.007734921362883223,0.007734921362883223
+logistic_regression,num__revol_bal,-0.00564904565785846,0.00564904565785846
+logistic_regression,num__delinq_amnt,0.004433004726624631,0.004433004726624631
+logistic_regression,num__chargeoff_within_12_mths,0.0022853274686804883,0.0022853274686804883
+logistic_regression,cat__addr_state_TX,-0.0018676799920637273,0.0018676799920637273
+logistic_regression,num__tot_coll_amt,0.0016996515341228238,0.0016996515341228238
+logistic_regression,num__mths_since_last_record,-0.0008704667677780576,0.0008704667677780576
+logistic_regression,num__mths_since_last_major_derog,-0.00015474433303544886,0.00015474433303544886
+random_forest,cat__term_ 36 months,0.17362085333971816,0.17362085333971816
+random_forest,cat__term_ 60 months,0.17057927202767298,0.17057927202767298
+random_forest,num__term_months,0.15637211631382847,0.15637211631382847
+random_forest,num__loan_to_income,0.06174245390087162,0.06174245390087162
+random_forest,num__acc_open_past_24mths,0.06160134796213925,0.06160134796213925
+random_forest,num__bc_open_to_buy,0.03460020742078193,0.03460020742078193
+random_forest,num__dti,0.03345534993184872,0.03345534993184872
+random_forest,num__avg_cur_bal,0.024689910840485767,0.024689910840485767
+random_forest,num__total_bc_limit,0.02323293476191951,0.02323293476191951
+random_forest,cat__verification_status_Not Verified,0.021134279780740797,0.021134279780740797
+random_forest,num__tot_hi_cred_lim,0.020991498264026544,0.020991498264026544
+random_forest,num__log_annual_inc,0.020897414925709394,0.020897414925709394
+random_forest,num__inq_last_6mths,0.017488095510162522,0.017488095510162522
+random_forest,num__annual_inc,0.017220616004425635,0.017220616004425635
+random_forest,num__loan_amnt,0.017158722488133323,0.017158722488133323
+random_forest,num__percent_bc_gt_75,0.014049284660945984,0.014049284660945984
+random_forest,num__mo_sin_rcnt_rev_tl_op,0.012828378724683837,0.012828378724683837
+random_forest,num__total_rev_hi_lim,0.012453317323769529,0.012453317323769529
+random_forest,num__tot_cur_bal,0.012253301539932086,0.012253301539932086
+random_forest,num__mort_acc,0.010622046094743076,0.010622046094743076
+random_forest,cat__home_ownership_MORTGAGE,0.009808603860353662,0.009808603860353662
+random_forest,num__bc_util,0.009251282595567846,0.009251282595567846
+random_forest,num__mo_sin_old_rev_tl_op,0.00758127528103185,0.00758127528103185
+random_forest,cat__home_ownership_RENT,0.007276419926274468,0.007276419926274468
+random_forest,num__revol_util,0.006967934441743399,0.006967934441743399
+random_forest,num__open_acc,0.00367634577484049,0.00367634577484049
+random_forest,num__credit_history_months,0.0032991613256188232,0.0032991613256188232
+random_forest,cat__verification_status_Verified,0.00313197013165925,0.00313197013165925
+random_forest,cat__facility_type_Credit Card Refinance,0.0027767330157409723,0.0027767330157409723
+random_forest,cat__purpose_credit_card,0.0026446844645458987,0.0026446844645458987
+random_forest,num__revol_bal,0.002578868722236392,0.002578868722236392
+random_forest,num__total_bal_ex_mort,0.0023062773678450554,0.0023062773678450554
+random_forest,num__total_il_high_credit_limit,0.002263559327192884,0.002263559327192884
+random_forest,num__pct_tl_nvr_dlq,0.0019118807576955358,0.0019118807576955358
+random_forest,num__mths_since_last_delinq,0.0018421430969599976,0.0018421430969599976
+random_forest,num__total_acc,0.00157257231329902,0.00157257231329902
+random_forest,cat__verification_status_Source Verified,0.0013217489725483454,0.0013217489725483454
+random_forest,cat__facility_type_Small Business Retail Loan,0.0011097210604992776,0.0011097210604992776
+random_forest,num__mths_since_last_major_derog,0.0011039971823908633,0.0011039971823908633
+random_forest,num__mths_since_last_record,0.001054703360481361,0.001054703360481361
+random_forest,num__pub_rec,0.0010215474615513087,0.0010215474615513087
+random_forest,num__tot_coll_amt,0.0009606104360479617,0.0009606104360479617
+random_forest,num__delinq_2yrs,0.0009576010203940836,0.0009576010203940836
+random_forest,num__num_accts_ever_120_pd,0.0009534150096628335,0.0009534150096628335
+random_forest,num__emp_length_years,0.000805596084785806,0.000805596084785806
+random_forest,cat__purpose_small_business,0.0006660631626535292,0.0006660631626535292
+random_forest,cat__purpose_debt_consolidation,0.0004947531926735498,0.0004947531926735498
+random_forest,cat__facility_type_Debt Consolidation / Personal Loan,0.0003972392336489969,0.0003972392336489969
+random_forest,cat__addr_state_CA,0.0003096908909103457,0.0003096908909103457
+random_forest,cat__emp_length_10+ years,0.00027255407676148724,0.00027255407676148724
+random_forest,num__pub_rec_bankruptcies,0.0002687194486939562,0.0002687194486939562
+random_forest,cat__addr_state_CO,0.00024879815273502076,0.00024879815273502076
+random_forest,num__num_tl_90g_dpd_24m,0.00022010323967404675,0.00022010323967404675
+random_forest,cat__home_ownership_OWN,0.00018477419092884222,0.00018477419092884222
+random_forest,cat__addr_state_NY,0.0001274489117958166,0.0001274489117958166
+random_forest,cat__facility_type_Other Personal Loan,0.00012567161259203864,0.00012567161259203864
+random_forest,cat__facility_type_Auto Loan,0.00012022786571129296,0.00012022786571129296
+random_forest,cat__addr_state_OR,9.717951864583461e-05,9.717951864583461e-05
+random_forest,cat__purpose_car,8.051788170495887e-05,8.051788170495887e-05
+random_forest,cat__addr_state_WA,7.88552879012252e-05,7.88552879012252e-05
+random_forest,cat__purpose_other,7.868389219938525e-05,7.868389219938525e-05
+random_forest,cat__purpose_infrequent_sklearn,7.064629705799799e-05,7.064629705799799e-05
+random_forest,cat__addr_state_IL,4.5895642635874575e-05,4.5895642635874575e-05
+random_forest,cat__emp_length_< 1 year,4.584657517730522e-05,4.584657517730522e-05
+random_forest,cat__facility_type_Home Improvement Loan,4.251144981406951e-05,4.251144981406951e-05
+random_forest,cat__purpose_home_improvement,3.9724074402917923e-05,3.9724074402917923e-05
+random_forest,num__collections_12_mths_ex_med,3.660738090758347e-05,3.660738090758347e-05
+random_forest,cat__emp_length_7 years,3.607773648385983e-05,3.607773648385983e-05
+random_forest,cat__emp_length_1 year,3.476781471960679e-05,3.476781471960679e-05
+random_forest,cat__addr_state_GA,3.475387155512438e-05,3.475387155512438e-05
+random_forest,cat__addr_state_TX,3.430125941488548e-05,3.430125941488548e-05
+random_forest,cat__facility_type_infrequent_sklearn,3.387998983737267e-05,3.387998983737267e-05
+random_forest,cat__addr_state_NJ,3.345834435446361e-05,3.345834435446361e-05
+random_forest,cat__addr_state_FL,3.243229637945701e-05,3.243229637945701e-05
+random_forest,num__tax_liens,3.233391349828618e-05,3.233391349828618e-05
+random_forest,cat__emp_length_5 years,2.8012745310959988e-05,2.8012745310959988e-05
+random_forest,cat__addr_state_infrequent_sklearn,2.6569208570032165e-05,2.6569208570032165e-05
+random_forest,cat__addr_state_PA,2.534272932550297e-05,2.534272932550297e-05
+random_forest,cat__addr_state_SC,2.4591662562297743e-05,2.4591662562297743e-05
+random_forest,cat__emp_length_6 years,2.448281382245617e-05,2.448281382245617e-05
+random_forest,cat__purpose_major_purchase,2.1816233356726835e-05,2.1816233356726835e-05
+random_forest,cat__addr_state_MN,2.100699196691461e-05,2.100699196691461e-05
+random_forest,cat__emp_length_4 years,2.058768540125436e-05,2.058768540125436e-05
+random_forest,cat__emp_length_2 years,2.045292292946504e-05,2.045292292946504e-05
+random_forest,cat__addr_state_LA,2.0119210287832078e-05,2.0119210287832078e-05
+random_forest,cat__addr_state_TN,1.890654203154027e-05,1.890654203154027e-05
+random_forest,cat__emp_length_3 years,1.8083109437817372e-05,1.8083109437817372e-05
+random_forest,cat__addr_state_VA,1.7909397047565332e-05,1.7909397047565332e-05
+random_forest,cat__addr_state_CT,1.7761680439118978e-05,1.7761680439118978e-05
+random_forest,cat__emp_length_8 years,1.7554823875855926e-05,1.7554823875855926e-05
+random_forest,cat__addr_state_WI,1.701236540033465e-05,1.701236540033465e-05
+random_forest,cat__addr_state_AZ,1.6355606359415605e-05,1.6355606359415605e-05
+random_forest,cat__addr_state_MA,1.603303372421795e-05,1.603303372421795e-05
+random_forest,cat__facility_type_Consumer / Lifestyle Loan,1.5817965611151443e-05,1.5817965611151443e-05
+random_forest,cat__addr_state_MD,1.5807144985351717e-05,1.5807144985351717e-05
+random_forest,cat__addr_state_NV,1.4408242418194466e-05,1.4408242418194466e-05
+random_forest,cat__addr_state_IN,1.2999810103891868e-05,1.2999810103891868e-05
+random_forest,cat__emp_length_9 years,1.2996686822080341e-05,1.2996686822080341e-05
+random_forest,cat__addr_state_MO,1.2691894911951018e-05,1.2691894911951018e-05
+random_forest,cat__addr_state_AL,1.259478887959587e-05,1.259478887959587e-05
+random_forest,cat__addr_state_NC,8.881267333090476e-06,8.881267333090476e-06
+random_forest,num__acc_now_delinq,8.483760504119528e-06,8.483760504119528e-06
+random_forest,cat__addr_state_MI,7.936356262723207e-06,7.936356262723207e-06
+random_forest,cat__addr_state_OH,5.1355510090097e-06,5.1355510090097e-06
+random_forest,num__chargeoff_within_12_mths,5.075756334026587e-06,5.075756334026587e-06
+random_forest,num__delinq_amnt,0.0,0.0
+random_forest,cat__home_ownership_infrequent_sklearn,0.0,0.0
+random_forest,cat__earliest_cr_line_infrequent_sklearn,0.0,0.0
+random_forest,cat__application_type_Individual,0.0,0.0
+random_forest,cat__application_type_infrequent_sklearn,0.0,0.0
+scorecard_woe_logistic,mths_since_last_delinq,-1.8301544095423183,1.8301544095423183
+scorecard_woe_logistic,total_il_high_credit_limit,1.044954539843734,1.044954539843734
+scorecard_woe_logistic,revol_bal,1.0408975140471128,1.0408975140471128
+scorecard_woe_logistic,term,-0.9688510899524937,0.9688510899524937
+scorecard_woe_logistic,mo_sin_old_rev_tl_op,-0.9145553698940108,0.9145553698940108
+scorecard_woe_logistic,acc_open_past_24mths,-0.9098821047845724,0.9098821047845724
+scorecard_woe_logistic,total_bal_ex_mort,0.9082730210539396,0.9082730210539396
+scorecard_woe_logistic,inq_last_6mths,-0.8859190997420702,0.8859190997420702
+scorecard_woe_logistic,addr_state,-0.8681274130484548,0.8681274130484548
+scorecard_woe_logistic,home_ownership,-0.8341232865109417,0.8341232865109417
+scorecard_woe_logistic,pub_rec_bankruptcies,-0.6892942359050336,0.6892942359050336
+scorecard_woe_logistic,revol_util,-0.6865298124806613,0.6865298124806613
+scorecard_woe_logistic,mths_since_last_record,-0.6589514922461688,0.6589514922461688
+scorecard_woe_logistic,tot_coll_amt,0.6461789995983258,0.6461789995983258
+scorecard_woe_logistic,num_tl_90g_dpd_24m,0.6461789995983258,0.6461789995983258
+scorecard_woe_logistic,emp_length,-0.6132157505630433,0.6132157505630433
+scorecard_woe_logistic,dti,-0.5652862468410432,0.5652862468410432
+scorecard_woe_logistic,percent_bc_gt_75,-0.4945258009341136,0.4945258009341136
+scorecard_woe_logistic,purpose,-0.4932557157367781,0.4932557157367781
+scorecard_woe_logistic,emp_length_years,-0.4683913330391215,0.4683913330391215
+scorecard_woe_logistic,loan_to_income,-0.4536214066178876,0.4536214066178876
+scorecard_woe_logistic,mths_since_last_major_derog,-0.4142225682357125,0.4142225682357125
+scorecard_woe_logistic,bc_open_to_buy,-0.39960408120146396,0.39960408120146396
+scorecard_woe_logistic,mo_sin_rcnt_rev_tl_op,-0.39769061256375066,0.39769061256375066
+scorecard_woe_logistic,tot_hi_cred_lim,-0.364017339791277,0.364017339791277
+scorecard_woe_logistic,mort_acc,-0.34054282984856504,0.34054282984856504
+scorecard_woe_logistic,credit_history_months,0.2832462085313032,0.2832462085313032
+scorecard_woe_logistic,total_bc_limit,-0.2793826308463364,0.2793826308463364
+scorecard_woe_logistic,verification_status,-0.2202881415273227,0.2202881415273227
+scorecard_woe_logistic,facility_type,-0.21827637281843534,0.21827637281843534
+scorecard_woe_logistic,bc_util,0.21021771385254281,0.21021771385254281
+scorecard_woe_logistic,avg_cur_bal,-0.21019997705154037,0.21019997705154037
+scorecard_woe_logistic,num_accts_ever_120_pd,0.20282139524128256,0.20282139524128256
+scorecard_woe_logistic,total_acc,-0.1948701617544945,0.1948701617544945
+scorecard_woe_logistic,total_rev_hi_lim,-0.12959792003159953,0.12959792003159953
+scorecard_woe_logistic,pct_tl_nvr_dlq,0.12890849196115342,0.12890849196115342
+scorecard_woe_logistic,annual_inc,-0.11661526982569187,0.11661526982569187
+scorecard_woe_logistic,log_annual_inc,-0.11661526982569187,0.11661526982569187
+scorecard_woe_logistic,open_acc,0.11054147687708744,0.11054147687708744
+scorecard_woe_logistic,tot_cur_bal,0.058439965362455104,0.058439965362455104
+scorecard_woe_logistic,loan_amnt,0.02971748363608445,0.02971748363608445
+scorecard_woe_logistic,application_type,0.01823456375651943,0.01823456375651943
+scorecard_woe_logistic,collections_12_mths_ex_med,-0.010565455336022662,0.010565455336022662
+scorecard_woe_logistic,chargeoff_within_12_mths,-0.010565455336022662,0.010565455336022662
+scorecard_woe_logistic,delinq_2yrs,0.007533882225866278,0.007533882225866278
+scorecard_woe_logistic,pub_rec,0.007533882225866278,0.007533882225866278
+scorecard_woe_logistic,acc_now_delinq,0.007533882225866278,0.007533882225866278
+scorecard_woe_logistic,delinq_amnt,0.007533882225866278,0.007533882225866278
+scorecard_woe_logistic,tax_liens,0.003694518409518542,0.003694518409518542
+scorecard_woe_logistic,earliest_cr_line,0.0,0.0
+scorecard_woe_logistic,term_months,0.0,0.0
