@@ -144,7 +144,7 @@ def apply_filters(df: pd.DataFrame) -> tuple[pd.DataFrame, str]:
     """Render slicers at the top of the single dashboard and return the filtered portfolio."""
     st.markdown("<div class='section-card'>", unsafe_allow_html=True)
     section_header("Portfolio Slicers", "Use these filters to change every chart, card, table, and borrower queue below.")
-    row1 = st.columns([1.2, 1.0, 1.0, 1.1, 1.0, 1.0])
+    row1 = st.columns([1.25, 1.0, 1.0, 1.15, 1.0, 1.0])
     filtered = df
     with row1[0]:
         search_text = st.text_input(
@@ -495,7 +495,7 @@ kpi_cards(filtered)
 st.markdown("<hr>", unsafe_allow_html=True)
 
 # Main analytics grid: portfolio intelligence on the left, management and model evidence on the right.
-left_area, right_area = st.columns([1.55, 1.0])
+left_area, right_area = st.columns([1.4, 1.2])
 with left_area:
     st.markdown("<div class='section-card'>", unsafe_allow_html=True)
     section_header("Portfolio Risk and Return", "Identify which business segments create loss, profit, or policy concern.")
@@ -577,7 +577,7 @@ st.markdown("</div>", unsafe_allow_html=True)
 
 st.markdown("<hr>", unsafe_allow_html=True)
 
-bottom_left, bottom_right = st.columns([1.25, 1.0])
+bottom_left, bottom_right = st.columns([1.3, 1.0])
 with bottom_left:
     st.markdown("<div class='section-card'>", unsafe_allow_html=True)
     model_assurance_panel()
