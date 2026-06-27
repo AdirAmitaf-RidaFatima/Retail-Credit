@@ -7,4 +7,14 @@ textColor = "#111827"
 font = "sans serif"
 
 [server]
-maxUploadSize = 1024
+maxUploadSize = 200
+headless = true
+enableXsrfProtection = true
+enableCORS = true
+
+[client]
+showErrorDetails = true
+toolbarMode = "viewer"
+
+[browser]
+gatherUsageStats = false
